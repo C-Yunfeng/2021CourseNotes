@@ -46,7 +46,7 @@ But this is just the **tip** of the iceberg.
 
 ### Week 3
 
-##### Follow the data life cycle
+#### Follow the data life cycle
 
 - six phases
   - plan
@@ -86,7 +86,3 @@ But this is just the **tip** of the iceberg.
     - case study
 
 to top it off 最重要的是，除此之外
-
-#### The data analysis toolbox
-
-# 
