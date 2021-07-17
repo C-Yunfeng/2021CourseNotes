@@ -68,5 +68,53 @@ I hope you that way too. 我希望你也这样
 
 
 
-### Basics
+#### Basics
+
+we are going to **go over** the basics. 复习
+
+I want to **convey these ideas** using logistic regression **in order to** make the ideas eaiser to understand.
+
+64 by 64 by 2 64\*64\*2
+
+use m **subscript** to **denote** the number of examples 下标；表示
+
+to output all of the training examples into a more **compact notation**, we're going to define a matrix, **capital X**. 紧缩记法；大写的X
+
+so just to recap 简单回顾一下
+
+- m仍是样本数，n是特征数，但X转置了
+
+  ![](https://blogjallery.oss-cn-beijing.aliyuncs.com/img/20210716103532.png)
+
+we'll start to **fetch out** logistic regression using this notation. 推导出/引出/拿出
+
+ 
+
+**Conversely**, if Z is very small
+
+**And indeed**, you see that as Z becomes a very negetive number, sigmoid of Z goes very close to zero. 事实上
+
+**Before moving on**, just another note on the notation. 继续之前
+
+- 此课程中把w和b分开，而不是只用θ
+
+  ![](https://blogjallery.oss-cn-beijing.aliyuncs.com/img/20210716160038.png)
+
+an identity vector 单位向量
+
+let's take a look at the cost function. 【我不会加take a】
+
+may not find a **global optimum** 全局最优
+
+But **the intuition to take away** is that  Loss is a function will need to define to measure how good our output is. 直觉告诉我们
+
+- 对数损失函数的有效性，当$\hat y$接近于y时，损失函数变小。所以让损失函数变小的迭代是正确的
+
+  There are a lot of function **with roughly this effect**... 有这样类似的作用。roughly大概
+
+  ![](https://blogjallery.oss-cn-beijing.aliyuncs.com/img/20210716190431.png)
+
+**it turns out that** the logistic function can be viewed as a small neural network. 事实证明
+
+it turns out that i can fly. 原来我能飞
 
