@@ -118,3 +118,11 @@ But **the intuition to take away** is that  Loss is a function will need to defi
 
 it turns out that i can fly. 原来我能飞
 
+
+
+- 损失函数$J(w,b)$是凹函数，所以容易找到全局最优点
+
+Let's say that w was **over here**.
+
+
+
